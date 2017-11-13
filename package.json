@@ -1,5 +1,5 @@
 {
-  "name": "blync-core",
+  "name": "blync-plus-core",
   "version": "0.2.0",
   "description": "Library for interacting with Embrava's Blynclight Standard",
   "main": "index.js",
